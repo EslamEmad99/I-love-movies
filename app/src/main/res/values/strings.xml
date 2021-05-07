@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">ILoveMovies</string>
+    <string name="i_love_movies">I love movies</string>
+    <string name="login">Login</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account? </string>
+    <string name="sign_up_underline"><u>Sign up</u></string>
+    <string name="password_confirmation">Password confirmation</string>
+    <string name="register">Register</string>
+    <string name="sign_in_underline"><u>Sign in</u></string>
+    <string name="do_you_have_an_account">Do you have an account?</string>
+    <string name="all_images">All imagess</string>
+
+    <string name="title_item_detail">Movie Detail</string>
+    <string name="news">News</string>
+    <string name="upcoming_releases">Upcoming Releases</string>
+    <string name="up">UP</string>
+    <string name="level">LEVEL</string>
+    <string name="log_out">Logout</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="about_app">About app</string>
+    <string name="terms_and_conditions">Terms and conditions</string>
+    <string name="call_us">Call us</string>
+    <string name="share_app">Share app</string>
+    <string name="movies">Movies</string>
+    <string name="I_love">I Love</string>
+
+
 </resources>

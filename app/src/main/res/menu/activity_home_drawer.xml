@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/user_main_fragment"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/favorites_fragment"
+            android:title="@string/favorites" />
+
+        <item
+            android:id="@+id/about_app_fragment"
+            android:title="@string/about_app" />
+
+        <item
+            android:id="@+id/terms_and_conditions_fragment"
+            android:title="@string/terms_and_conditions" />
+
+        <item
+            android:id="@+id/call_us_fragment"
+            android:title="@string/call_us" />
+
+        <item
+            android:id="@+id/share_app"
+            android:title="@string/share_app" />
+    </group>
+</menu>
